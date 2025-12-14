@@ -3,6 +3,21 @@ Dieses Jupyter Notebook enthält die Analyse zum Datensatz:
 
 Die Zellen stammen aus einem Plattenepithelkarzinom. Ursprünglich stammen sie von einem 70-jährigen Spender mit einer TP53-Mutation. (Quelle: https://www.dsmz.de/collection/catalogue/details/culture/ACC-617) 
 
+
+Kadigawuma et al. konnten nachweisen, dass RARγ eine zentrale Rolle beim durch DNA-Schäden induzierten Zelltod spielt. (Quelle: https://www.sciencedirect.com/science/article/pii/S2589004219302020) 
+
+
+
+
+
+
+
+
+
+
+
+
+
 Vitamin A-Stoffwechsel: 
 <img width="850" height="526" alt="Overview-of-vitamin-A-metabolism-Vitamin-A-or-retinol-and-precursors-of-retinoids-in" src="https://github.com/user-attachments/assets/7a669c63-55d7-48bb-bc05-b4356f8f8a34" />
 
