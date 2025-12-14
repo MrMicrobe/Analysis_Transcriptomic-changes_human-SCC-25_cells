@@ -7,6 +7,10 @@ Die Zellen stammen aus einem Plattenepithelkarzinom. Ursprünglich stammen sie v
 Kadigawuma et al. konnten nachweisen, dass RARγ eine zentrale Rolle beim durch DNA-Schäden induzierten Zelltod spielt. (Quelle: https://www.sciencedirect.com/science/article/pii/S2589004219302020) 
 
 
+![1-s2 0-S2589004219302020-fx1](https://github.com/user-attachments/assets/8873d389-4246-49a9-be48-bfb0fd043dea)
+
+
+
 
 
 
