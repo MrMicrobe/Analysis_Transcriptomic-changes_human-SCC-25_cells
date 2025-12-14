@@ -1,7 +1,7 @@
 Dieses Jupyter Notebook enthält die Analyse zum Datensatz: 
 "Transcriptomic changes in human SCC-25 Parental and RARG knockout cells in response to 6h and 48h treatments with RARγ agonists CD1530 or all-trans retinoic acid (RA)." 
 
-Die Zellen stammen aus einem Plattenepithelkarzinom. 
+Die Zellen stammen aus einem Plattenepithelkarzinom. Ursprünglich stammen sie von einem 70-jährigen Spender mit einer TP53-Mutation. (Quelle: https://www.dsmz.de/collection/catalogue/details/culture/ACC-617) 
 
 
 
