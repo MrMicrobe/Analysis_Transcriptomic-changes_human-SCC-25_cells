@@ -6,6 +6,8 @@ Die Zellen stammen aus einem Plattenepithelkarzinom. Ursprünglich stammen sie v
 Vitamin A-Stoffwechsel: 
 <img width="850" height="526" alt="Overview-of-vitamin-A-metabolism-Vitamin-A-or-retinol-and-precursors-of-retinoids-in" src="https://github.com/user-attachments/assets/7a669c63-55d7-48bb-bc05-b4356f8f8a34" />
 
+Quelle: "https://www.researchgate.net/figure/Overview-of-vitamin-A-metabolism-Vitamin-A-or-retinol-and-precursors-of-retinoids-in_fig2_221972032"
+
 
 
 
