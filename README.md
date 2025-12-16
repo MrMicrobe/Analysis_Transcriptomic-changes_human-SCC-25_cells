@@ -2,8 +2,9 @@ Dieses Jupyter Notebook enthält die Analyse zum Datensatz:
 "Transcriptomic changes in human SCC-25 Parental and RARG knockout cells in response to 6h and 48h treatments with RARγ agonists CD1530 or all-trans retinoic acid (RA)." 
 
 Die Zellen stammen aus einem Plattenepithelkarzinom. Ursprünglich stammen sie von einem 70-jährigen Spender mit einer TP53-Mutation. (Quelle: https://www.dsmz.de/collection/catalogue/details/culture/ACC-617) 
-Durch CRISPR-Cas wurden 
-Jedes experimentelle Setting wurde im Triplikat gemessen.
+Da RARγ in SCC-25-Zellen stark exprimiert wird, wurden mittels CRISPR/Cas Knockout-Zellen erstellt.
+
+Folgendes Messdesign wurde gewählt: 
 
 <img width="681" height="523" alt="Bildschirmfoto vom 2025-12-16 15-26-43" src="https://github.com/user-attachments/assets/e73464e0-163a-4290-a5c6-de8a1e3f1ec2" />
 
